@@ -174,3 +174,9 @@ footer a {
 footer a:hover {
   text-decoration-color: var(--text);
 }
+
+.contributors {
+  margin-top: 0.6rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
